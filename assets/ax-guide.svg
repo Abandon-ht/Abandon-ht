@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="206" viewBox="0 0 540 206" role="img" aria-label="AX AI Develop Guide — 检测、分割与姿态模型部署；从模型导出到开发板推理">
+<title>AX AI Develop Guide — 检测、分割与姿态模型部署；从模型导出到开发板推理</title>
+<rect x="1" y="1" width="538" height="204" rx="12" fill="#101925" stroke="#29364a"/>
+<rect x="24" y="24" width="3" height="13" rx="1" fill="#829eff"/>
+<text x="37" y="35" fill="#7990aa" font-family="'SFMono-Regular', Consolas, monospace" font-size="10.5" letter-spacing="1.5">05 / DEPLOYMENT NOTES</text>
+<path d="M492 32h15v15 M507 32l-16 16" fill="none" stroke="#829eff" stroke-width="1.7" stroke-linecap="round"/>
+<text x="24" y="80" fill="#e7eff9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="27" font-weight="650">AX AI Develop Guide</text>
+<text x="24" y="114" fill="#b6c5d7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17">检测、分割与姿态模型部署</text>
+<text x="24" y="142" fill="#8094ab" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16">从模型导出到开发板推理</text>
+<path d="M24 162h490" stroke="#263346"/>
+<text x="24" y="188" fill="#829eff" font-family="'SFMono-Regular', Consolas, monospace" font-size="12">YOLOv8 · Pulsar2 · AX650</text>
+</svg>

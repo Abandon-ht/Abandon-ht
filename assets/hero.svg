@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="360" viewBox="0 0 1120 360" role="img" aria-label="Abandon-ht — 端侧 AI、语音交互与嵌入式开发">
+<title>Abandon-ht — 端侧 AI、语音交互与嵌入式开发</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c2c"/><stop offset="1" stop-color="#0b111b"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#56e5bc"/><stop offset="1" stop-color="#819aff"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#408eb0" stop-opacity=".2"/><stop offset="1" stop-color="#408eb0" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="1118" height="358" rx="20" fill="url(#bg)" stroke="#263449"/>
+<g stroke="#253449" stroke-width=".5" opacity=".25"><path d="M0 0v360"/><path d="M40 0v360"/><path d="M80 0v360"/><path d="M120 0v360"/><path d="M160 0v360"/><path d="M200 0v360"/><path d="M240 0v360"/><path d="M280 0v360"/><path d="M320 0v360"/><path d="M360 0v360"/><path d="M400 0v360"/><path d="M440 0v360"/><path d="M480 0v360"/><path d="M520 0v360"/><path d="M560 0v360"/><path d="M600 0v360"/><path d="M640 0v360"/><path d="M680 0v360"/><path d="M720 0v360"/><path d="M760 0v360"/><path d="M800 0v360"/><path d="M840 0v360"/><path d="M880 0v360"/><path d="M920 0v360"/><path d="M960 0v360"/><path d="M1000 0v360"/><path d="M1040 0v360"/><path d="M1080 0v360"/><path d="M1120 0v360"/><path d="M0 0h1120"/><path d="M0 40h1120"/><path d="M0 80h1120"/><path d="M0 120h1120"/><path d="M0 160h1120"/><path d="M0 200h1120"/><path d="M0 240h1120"/><path d="M0 280h1120"/><path d="M0 320h1120"/><path d="M0 360h1120"/></g>
+<ellipse cx="893" cy="186" rx="238" ry="174" fill="url(#halo)"/>
+<path d="M60 56h26" stroke="#56e5bc" stroke-width="3"/>
+<text x="98" y="61" fill="#83a2b9" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="2.5">ON-DEVICE INTELLIGENCE</text>
+<text x="58" y="153" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Abandon-ht<tspan fill="#56e5bc">.</tspan></text>
+<text x="60" y="209" fill="#c3d2e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="500">让 AI 在设备上运行。</text>
+<text x="60" y="251" fill="#8094ad" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17">从模型部署，到语音交互，再到真实硬件。</text>
+<rect x="60" y="287" width="447" height="32" rx="16" fill="#142635" stroke="#284452"/>
+<text x="79" y="308" fill="#8ccdc3" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" letter-spacing="1">EDGE AI  /  SPEECH  /  EMBEDDED SYSTEMS</text>
+<g fill="none" stroke="#314c60" stroke-width="1">
+ <circle cx="889" cy="190" r="132"/>
+ <circle cx="889" cy="190" r="151" stroke-dasharray="3 10"/>
+ <path d="M736 133h37l27 27 M742 252h31l27-27 M988 158h27l22-23h30 M988 220h27l22 25h30"/>
+</g>
+<g stroke="#6396a8" stroke-width="2"><path d="M824 103v-12 M824 277v12 M802 126h-12 M976 126h12"/><path d="M842 103v-12 M842 277v12 M802 144h-12 M976 144h12"/><path d="M860 103v-12 M860 277v12 M802 162h-12 M976 162h12"/><path d="M878 103v-12 M878 277v12 M802 180h-12 M976 180h12"/><path d="M896 103v-12 M896 277v12 M802 198h-12 M976 198h12"/><path d="M914 103v-12 M914 277v12 M802 216h-12 M976 216h12"/><path d="M932 103v-12 M932 277v12 M802 234h-12 M976 234h12"/><path d="M950 103v-12 M950 277v12 M802 252h-12 M976 252h12"/></g>
+<rect x="802" y="110" width="174" height="166" rx="19" fill="#0e1a29" stroke="url(#accent)" stroke-width="1.8"/>
+<rect x="817" y="125" width="144" height="136" rx="12" fill="#152639" stroke="#2c445b"/>
+<text x="889" y="165" text-anchor="middle" fill="#7596b2" font-family="'SFMono-Regular', Consolas, monospace" font-size="12" letter-spacing="3">ON DEVICE</text>
+<text x="889" y="210" text-anchor="middle" fill="#d9fff4" font-family="'SFMono-Regular', Consolas, monospace" font-size="43" font-weight="600" letter-spacing="3">AI</text>
+<path d="M842 236h12l6-10 8 18 8-26 9 30 8-18 6 6h32" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#56e5bc"><circle cx="736" cy="133" r="4"/><circle cx="1067" cy="245" r="4"/></g>
+<g fill="#819aff"><circle cx="742" cy="252" r="4"/><circle cx="1067" cy="135" r="4"/></g>
+<text x="889" y="329" text-anchor="middle" fill="#6f8caa" font-family="'SFMono-Regular', Consolas, monospace" font-size="11" letter-spacing="2.5">MODEL → RUNTIME → HARDWARE</text>
+</svg>

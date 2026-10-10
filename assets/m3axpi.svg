@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="206" viewBox="0 0 540 206" role="img" aria-label="m3axpi_model — m3axpi 上的视觉模型实践；YOLOv5 / YOLOv8 部署示例">
+<title>m3axpi_model — m3axpi 上的视觉模型实践；YOLOv5 / YOLOv8 部署示例</title>
+<rect x="1" y="1" width="538" height="204" rx="12" fill="#101925" stroke="#29364a"/>
+<rect x="24" y="24" width="3" height="13" rx="1" fill="#67dabc"/>
+<text x="37" y="35" fill="#7990aa" font-family="'SFMono-Regular', Consolas, monospace" font-size="10.5" letter-spacing="1.5">04 / EDGE VISION</text>
+<path d="M492 32h15v15 M507 32l-16 16" fill="none" stroke="#67dabc" stroke-width="1.7" stroke-linecap="round"/>
+<text x="24" y="80" fill="#e7eff9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="27" font-weight="650">m3axpi_model</text>
+<text x="24" y="114" fill="#b6c5d7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17">m3axpi 上的视觉模型实践</text>
+<text x="24" y="142" fill="#8094ab" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16">YOLOv5 / YOLOv8 部署示例</text>
+<path d="M24 162h490" stroke="#263346"/>
+<text x="24" y="188" fill="#67dabc" font-family="'SFMono-Regular', Consolas, monospace" font-size="12">C++ · YOLO · Edge AI</text>
+</svg>
