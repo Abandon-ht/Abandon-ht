@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="206" viewBox="0 0 540 206" role="img" aria-label="sherpa-onnx — AX650 ZipVoice TTS 后端贡献；上游提案与实现：PR #4038">
-<title>sherpa-onnx — AX650 ZipVoice TTS 后端贡献；上游提案与实现：PR #4038</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="206" viewBox="0 0 540 206" role="img" aria-label="sherpa-onnx — AX650 ZipVoice TTS 后端贡献；AX650 ZipVoice TTS backend contribution">
+<title>sherpa-onnx — AX650 ZipVoice TTS 后端贡献；AX650 ZipVoice TTS backend contribution</title>
 <rect x="1" y="1" width="538" height="204" rx="12" fill="#101925" stroke="#29364a"/>
 <rect x="24" y="24" width="3" height="13" rx="1" fill="#b39cfa"/>
 <text x="37" y="35" fill="#7990aa" font-family="'SFMono-Regular', Consolas, monospace" font-size="10.5" letter-spacing="1.5">03 / OPEN-SOURCE CONTRIBUTION</text>
 <path d="M492 32h15v15 M507 32l-16 16" fill="none" stroke="#b39cfa" stroke-width="1.7" stroke-linecap="round"/>
 <text x="24" y="80" fill="#e7eff9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="27" font-weight="650">sherpa-onnx</text>
 <text x="24" y="114" fill="#b6c5d7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17">AX650 ZipVoice TTS 后端贡献</text>
-<text x="24" y="142" fill="#8094ab" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16">上游提案与实现：PR #4038</text>
+<text x="24" y="142" fill="#8094ab" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15">AX650 ZipVoice TTS backend contribution</text>
 <path d="M24 162h490" stroke="#263346"/>
-<text x="24" y="188" fill="#b39cfa" font-family="'SFMono-Regular', Consolas, monospace" font-size="12">Fork · C++ · ASR / TTS</text>
+<text x="24" y="188" fill="#b39cfa" font-family="'SFMono-Regular', Consolas, monospace" font-size="12">Fork · C++ · ASR / TTS · PR #4038</text>
 </svg>
