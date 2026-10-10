@@ -10,9 +10,9 @@
   <a href="https://huggingface.co/Abandon-ht">🤗 Hugging Face / Abandon-ht</a> · <a href="https://x.com/Abandon_ht">X / @Abandon_ht</a> · <a href="https://space.bilibili.com/425988695">Bilibili ↗</a>
 </p>
 
-你好，我是 **小佬鼠 · LittleMouse**，也叫 **Abandon-ht**，关注**端侧模型部署、语音交互与嵌入式系统**。我的实践围绕 ASR、TTS、LLM 与计算机视觉展开，从模型导出与图适配、量化编译，到 C++ / Rust 运行时集成和真实设备上的交互应用。
+你好，我是 **小佬鼠 · LittleMouse**，关注**端侧模型部署、语音交互与嵌入式系统**。我的实践围绕 ASR、TTS、LLM 与计算机视觉展开，从模型导出与图适配、量化编译，到 C++ / Rust 运行时集成和真实设备上的交互应用。
 
-Hi, I'm **LittleMouse (小佬鼠)**, also known as **Abandon-ht**. I focus on **on-device model deployment, speech interaction and embedded systems**, working across ASR, TTS, LLMs and computer vision—from model export, graph adaptation and quantization to C++ / Rust runtime integration and interactive applications on real devices.
+Hi, I'm **LittleMouse (小佬鼠)**. I focus on **on-device model deployment, speech interaction and embedded systems**, working across ASR, TTS, LLMs and computer vision—from model export, graph adaptation and quantization to C++ / Rust runtime integration and interactive applications on real devices.
 
 <p>
   <img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/stack.svg?v=3" width="100%" alt="C / C++ · Python · Rust · PyTorch · ONNX · Tauri · Linux" />
