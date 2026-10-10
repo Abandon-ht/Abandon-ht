@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/hero.svg" width="100%" alt="Abandon-ht — 让 AI 在设备上运行 / Bringing speech, vision and language models to the edge." />
+  <img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/hero.svg?v=3" width="100%" alt="小佬鼠 / LittleMouse — 才疏学浅的小佬鼠。Curious about models, machines, music and minds." />
 </p>
 
 <p align="center">
-  <a href="#projects">项目 / Projects</a> · <a href="#models">模型 / Models</a> · <a href="#focus">方向 / Focus</a> · <a href="https://huggingface.co/Abandon-ht">🤗 Hugging Face ↗</a>
+  <a href="#projects">项目 / Projects</a> · <a href="#models">模型 / Models</a> · <a href="#focus">方向 / Focus</a> · <a href="#about">关于 / About</a>
 </p>
 
-你好，我是 **Abandon-ht**，关注**端侧模型部署、语音交互与嵌入式系统**。我的实践围绕 ASR、TTS、LLM 与计算机视觉展开，从模型导出与图适配、量化编译，到 C++ / Rust 运行时集成和真实设备上的交互应用。
+<p align="center">
+  <a href="https://huggingface.co/Abandon-ht">🤗 Hugging Face / Abandon-ht</a> · <a href="https://x.com/Abandon_ht">X / @Abandon_ht</a> · <a href="https://space.bilibili.com/425988695">Bilibili ↗</a>
+</p>
 
-Hi, I'm **Abandon-ht**. I focus on **on-device model deployment, speech interaction and embedded systems**, working across ASR, TTS, LLMs and computer vision—from model export, graph adaptation and quantization to C++ / Rust runtime integration and interactive applications on real devices.
+你好，我是 **小佬鼠 · LittleMouse**，也叫 **Abandon-ht**，关注**端侧模型部署、语音交互与嵌入式系统**。我的实践围绕 ASR、TTS、LLM 与计算机视觉展开，从模型导出与图适配、量化编译，到 C++ / Rust 运行时集成和真实设备上的交互应用。
+
+Hi, I'm **LittleMouse (小佬鼠)**, also known as **Abandon-ht**. I focus on **on-device model deployment, speech interaction and embedded systems**, working across ASR, TTS, LLMs and computer vision—from model export, graph adaptation and quantization to C++ / Rust runtime integration and interactive applications on real devices.
 
 <p>
-  <img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/stack.svg" width="100%" alt="C / C++ · Python · Rust · PyTorch · ONNX · Tauri · Linux" />
+  <img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/stack.svg?v=3" width="100%" alt="C / C++ · Python · Rust · PyTorch · ONNX · Tauri · Linux" />
 </p>
 
 <a id="projects"></a>
@@ -20,16 +24,16 @@ Hi, I'm **Abandon-ht**. I focus on **on-device model deployment, speech interact
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/Abandon-ht/DesktopPet"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/desktop-pet.svg" width="100%" alt="DesktopPet：本地语音交互与 Live2D 桌面伙伴；A Live2D companion with local voice" /></a></td>
-<td width="50%"><a href="https://github.com/Abandon-ht/YOLO26.axera"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/yolo26.svg" width="100%" alt="YOLO26 / NPU：模型导出、NPU 编译与推理；Model export, NPU compilation and inference" /></a></td>
+<td width="50%"><a href="https://github.com/Abandon-ht/DesktopPet"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/desktop-pet.svg?v=3" width="100%" alt="DesktopPet：本地语音交互与 Live2D 桌面伙伴；A Live2D companion with local voice" /></a></td>
+<td width="50%"><a href="https://github.com/Abandon-ht/YOLO26.axera"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/yolo26.svg?v=3" width="100%" alt="YOLO26 / NPU：模型导出、NPU 编译与推理；Model export, NPU compilation and inference" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/Abandon-ht/sherpa-onnx"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/sherpa.svg" width="100%" alt="sherpa-onnx：AX650 ZipVoice TTS 后端贡献；AX650 ZipVoice TTS backend contribution" /></a></td>
-<td width="50%"><a href="https://github.com/Abandon-ht/m3axpi_model"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/m3axpi.svg" width="100%" alt="m3axpi_model：YOLOv5 / YOLOv8 端侧部署示例；On-device YOLOv5 / YOLOv8 examples" /></a></td>
+<td width="50%"><a href="https://github.com/Abandon-ht/sherpa-onnx"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/sherpa.svg?v=3" width="100%" alt="sherpa-onnx：AX650 ZipVoice TTS 后端贡献；AX650 ZipVoice TTS backend contribution" /></a></td>
+<td width="50%"><a href="https://github.com/Abandon-ht/m3axpi_model"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/m3axpi.svg?v=3" width="100%" alt="m3axpi_model：YOLOv5 / YOLOv8 端侧部署示例；On-device YOLOv5 / YOLOv8 examples" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/Abandon-ht/ax-AI_develop_guide"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/ax-guide.svg" width="100%" alt="Edge AI Guide：检测、分割与姿态模型部署；Detection, segmentation and pose deployment" /></a></td>
-<td width="50%"><a href="https://github.com/Abandon-ht/ModuleLLM_Development_Guide"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/module-llm.svg" width="100%" alt="ModuleLLM Guide：ESP32 与 PC 端开发资料；ESP32 and PC development notes" /></a></td>
+<td width="50%"><a href="https://github.com/Abandon-ht/ax-AI_develop_guide"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/ax-guide.svg?v=3" width="100%" alt="Edge AI Guide：检测、分割与姿态模型部署；Detection, segmentation and pose deployment" /></a></td>
+<td width="50%"><a href="https://github.com/Abandon-ht/ModuleLLM_Development_Guide"><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/module-llm.svg?v=3" width="100%" alt="ModuleLLM Guide：ESP32 与 PC 端开发资料；ESP32 and PC development notes" /></a></td>
 </tr>
 </table>
 
@@ -67,7 +71,7 @@ I share converted models, export artifacts and deployment notes for speech, lang
 | **部署工程 · Deployment** | ONNX 图适配、量化校准、NPU 编译与 CPU / NPU 协同。<br />ONNX graph adaptation, quantization, NPU compilation and CPU / NPU integration. |
 | **嵌入式交互 · Embedded** | ESP32 / Linux、音频采集、UART / I2S 与应用编排。<br />ESP32 / Linux, audio I/O, UART / I2S and application orchestration. |
 
-<p><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/voice-pipeline.svg" width="100%" alt="端侧语音交互 / On-device voice: Audio → VAD / KWS → ASR → LLM → TTS → Playback" /></p>
+<p><img src="https://raw.githubusercontent.com/Abandon-ht/Abandon-ht/main/assets/voice-pipeline.svg?v=3" width="100%" alt="端侧语音交互 / On-device voice: Audio → VAD / KWS → ASR → LLM → TTS → Playback" /></p>
 
 <a id="open-source"></a>
 
@@ -81,7 +85,33 @@ Contributed an **AX650 ZipVoice TTS backend proposal** to **sherpa-onnx**, bring
 欢迎在对应项目的 **Issues / Discussions** 中交流模型部署、设备适配与使用体验。<br />
 Feel free to discuss model deployment, device integration and feedback in the relevant project's **Issues / Discussions**.
 
-<p align="center"><a href="https://github.com/Abandon-ht?tab=repositories">全部 GitHub 仓库 · All repositories ↗</a> · <a href="https://huggingface.co/Abandon-ht">Hugging Face ↗</a></p>
+<a id="about"></a>
+
+## 关于小佬鼠 · About LittleMouse
+
+**才疏学浅的小佬鼠，还在学习，也还在拆解世界。**<br />
+**A curious LittleMouse, always learning—and taking the world apart to understand it.**
+
+我容易被「有结构、有原理、有思想，能拆开研究」的东西吸引。<br />
+I'm drawn to things with structure, underlying principles and ideas worth taking apart.
+
+<details>
+<summary><b>代码之外，我喜欢什么？ · What catches my curiosity beyond code?</b></summary>
+
+| 兴趣 · Interest | 我喜欢拆解的东西 · What I Like to Explore |
+| :--- | :--- |
+| **知识 · Ideas** | 哲学、认知科学、语言与思维，以及神学、历史和思想。意识如何形成？语言与抽象思考是什么关系？自由意志与决定论如何相处？<br />Philosophy, cognitive science, language and thought, theology and history—especially consciousness, abstract thinking, free will and determinism. |
+| **科技 · Systems** | Apple Silicon、CPU / GPU / NPU 架构、操作系统、统一内存、HDR、音频系统与性能分析。<br />Apple Silicon, CPU / GPU / NPU architectures, operating systems, unified memory, HDR, audio systems and performance analysis. |
+| **人工智能 · AI** | Transformer、Attention、KV cache、量化与推理加速；vLLM、SGLang、llama.cpp、MLX；ASR、TTS、Agent、多模态、论文与 benchmark。也喜欢自己跑模型、做测试。<br />Model architectures, inference systems, speech, agents and multimodal AI. I enjoy reading papers, running models and testing how they perform. |
+| **古典音乐 · Classical Music** | 尤其喜欢巴赫与复调，也喜欢肖邦、贝多芬、舒伯特、德彪西等。主题、对题、卡农、倒影，以及和声、织体与乐曲结构，都值得细听。<br />Especially Bach and counterpoint, alongside Chopin, Beethoven, Schubert, Debussy and others—subjects, countersubjects, canons, inversion, harmony, texture and musical form. |
+| **游戏 · Games** | 有世界观、复杂叙事、哲学问题或独特系统的作品；也会研究 NPC AI、图形渲染、超分辨率与游戏引擎。<br />Rich worlds, layered narratives, philosophical questions and distinctive systems—as well as NPC AI, rendering, upscaling and game engines. |
+
+所以，我的推荐算法大概比较难伺候 😂<br />
+My recommendation algorithm has unusually specific tastes. 😂
+
+</details>
+
+<p align="center"><a href="https://github.com/Abandon-ht?tab=repositories">全部仓库 · Repositories ↗</a> · <a href="https://huggingface.co/Abandon-ht">Hugging Face ↗</a> · <a href="https://x.com/Abandon_ht">X ↗</a> · <a href="https://space.bilibili.com/425988695">Bilibili ↗</a></p>
 
 ---
 
